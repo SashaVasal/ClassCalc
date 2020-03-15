@@ -1,0 +1,10 @@
+C:\Users\Aleks\source\repos\NewTrueCalc\NewTrueCalc\bin\Debug\NewTrueCalc.exe.config
+C:\Users\Aleks\source\repos\NewTrueCalc\NewTrueCalc\bin\Debug\NewTrueCalc.exe
+C:\Users\Aleks\source\repos\NewTrueCalc\NewTrueCalc\bin\Debug\NewTrueCalc.pdb
+C:\Users\Aleks\source\repos\NewTrueCalc\NewTrueCalc\obj\Debug\NewTrueCalc.csprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\NewTrueCalc\NewTrueCalc\obj\Debug\NewTrueCalc.Form1.resources
+C:\Users\Aleks\source\repos\NewTrueCalc\NewTrueCalc\obj\Debug\NewTrueCalc.Properties.Resources.resources
+C:\Users\Aleks\source\repos\NewTrueCalc\NewTrueCalc\obj\Debug\NewTrueCalc.csproj.GenerateResource.cache
+C:\Users\Aleks\source\repos\NewTrueCalc\NewTrueCalc\obj\Debug\NewTrueCalc.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\source\repos\NewTrueCalc\NewTrueCalc\obj\Debug\NewTrueCalc.exe
+C:\Users\Aleks\source\repos\NewTrueCalc\NewTrueCalc\obj\Debug\NewTrueCalc.pdb
