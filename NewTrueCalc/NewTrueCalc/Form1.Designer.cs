@@ -215,7 +215,7 @@
             this.button_um.TabIndex = 1;
             this.button_um.Text = "*";
             this.button_um.UseVisualStyleBackColor = true;
-            this.button_um.Click += new System.EventHandler(this.Button_um_Click);
+            this.button_um.Click += new System.EventHandler(this.Button_multi_Click);
             // 
             // button_rov
             // 
@@ -226,7 +226,7 @@
             this.button_rov.TabIndex = 0;
             this.button_rov.Text = "=";
             this.button_rov.UseVisualStyleBackColor = true;
-            this.button_rov.Click += new System.EventHandler(this.Button_rov_Click);
+            this.button_rov.Click += new System.EventHandler(this.Eq_Click);
             // 
             // button_С
             // 
